@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/luckyali1/luckyali1/main/Banner (2).png" alt="Lucky Ali - Full-Stack Developer | AI/ML Enthusiast" />
-# 💫 About Me:
+#💫 About Me:
 
 🎓 B.Tech CSE (AI/ML) student at ABES Engineering College<br>👨‍💻 Passionate about Web Development & Competitive Programming<br>💡 Skilled in C++, ReactJS, GSAP, Redux, Locomotive Scroll, and Swiper.js<br>💼 Preparing for Placements & Technical Interviews<br>📈 Solved 300+ LeetCode & 400+ Coding Ninja DSA problems<br>🌍 Volunteered at STAMB & HUHC, contributing to social equity & education<br>
 
