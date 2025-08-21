@@ -6,7 +6,8 @@ Clean, modern layout with centered hero, grouped skills, and consistent theming.
 <!-- ====== HERO / BANNER ====== -->
 <p align="center">
   <!-- Option A: Minimal Capsule banner (edit text & colors as you like) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22d3ee&height=140&section=header&text=Lucky%20Ali&fontColor=ffffff&fontSize=48&desc=Full-Stack%20Developer%20%7C%Analyst&descAlignY=75&descSize=16" alt="Lucky Ali banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22d3ee&height=140&section=header&text=Lucky%20Ali&fontColor=ffffff&fontSize=48&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Programmer&descAlignY=75&descSize=16" alt="Lucky Ali banner" />
+
 
   <!-- Option B: Use your own banner asset (uncomment + remove Option A if preferred)
   <img src="https://raw.githubusercontent.com/luckyali1/luckyali1/main/Banner%20(2).png" alt="Lucky Ali — Full-Stack Developer | Data Analyst" />
