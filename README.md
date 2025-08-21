@@ -9,27 +9,27 @@ Clean, modern layout with centered hero, grouped skills, and consistent theming.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22d3ee&height=140&section=header&text=Lucky%20Ali&fontColor=ffffff&fontSize=48&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=75&descSize=16" alt="Lucky Ali banner" />
 
   <!-- Option B: Use your own banner asset (uncomment + remove Option A if preferred)
-  <img src="https://raw.githubusercontent.com/luckyali1/luckyali1/main/Banner%20(2).png" alt="Lucky Ali — Full-Stack Developer | AI/ML Enthusiast" />
+  <img src="https://raw.githubusercontent.com/luckyali1/luckyali1/main/Banner%20(2).png" alt="Lucky Ali — Full-Stack Developer | Data Analyst" />
   -->
 </p>
 
 <!-- Typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+SQL;DSA+%26+Competitive+Programming;AI%2FML+Learner+%F0%9F%A4%96" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+SQL;DSA+%26+Competitive+Programming;Data+Analyst+%F0%9F%A4%96" alt="typing" />
 </p>
 
 <!-- ====== QUICK INTRO ====== -->
 <p align="center">
   <b>B.Tech CSE (AI/ML)</b> @ ABES Engineering College &nbsp;•&nbsp; 
-  Web Dev + DSA enthusiast &nbsp;•&nbsp;
-  300+ LeetCode · 400+ Coding Ninjas
+  Web Dev + DSA + Data enthusiast &nbsp;•&nbsp;
+  500+ LeetCode · 400+ Coding Ninjas
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/Luckyalim" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/Luckyalim_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
   <a href="mailto:luckyali786ashu@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="<!-- update me: portfolio url -->" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white"></a>
+  <a href="luckyali.netlify.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white"></a>
 </p>
 
 ---
@@ -120,24 +120,12 @@ Clean, modern layout with centered hero, grouped skills, and consistent theming.
 ---
 
 ## 🧩 DSA & Coding
-- **LeetCode:** 300+ problems solved  
+- **LeetCode:** 500+ problems solved  
 - **Coding Ninjas:** 400+ problems solved  
 
 <p>
   <img src="https://leetcard.jacoblin.cool/Luckyalim_?ext=heatmap&theme=dark" height="180" alt="LeetCode card"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-- **E-Commerce Sales Analysis** — Pandas, Seaborn, Plotly, actionable insights  
-  [`/02_E-Commerce_Sales_Analysis`](https://github.com/LUCKYALI1/Data_Analysis_Projects/tree/main/02_E-Commerce_Sales_Analysis)
-- **Modern Portfolio (React + GSAP + Tailwind)** — smooth animations, responsive, SEO-ready  
-  <!-- update me: link to portfolio repo -->
-- **Auth-Ready MERN Starter** — JWT, refresh tokens, RBAC, validate + testable structure  
-  <!-- update me: link to repo -->
-
-> Want a detailed write-up? Check my pinned repos 👇
 
 ---
 
@@ -149,7 +137,7 @@ Clean, modern layout with centered hero, grouped skills, and consistent theming.
 ## 📬 Contact
 - 💼 LinkedIn: [@Luckyalim](https://linkedin.com/in/Luckyalim)  
 - ✉️ Email: [luckyali786ashu@gmail.com](mailto:luckyali786ashu@gmail.com)  
-- 🌐 Portfolio: <!-- update me: your site -->
+- 🌐 Portfolio: [Lucky.ali](https://luckyali.netlify.app/)
 
 ---
 
