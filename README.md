@@ -125,7 +125,8 @@ Clean, modern layout with centered hero, grouped skills, and consistent theming.
 - **Coding Ninjas:** 400+ problems solved  
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/Luckyalim_?ext=heatmap&theme=dark" height="180" alt="LeetCode card"/>
+  <img src="https://leetcard.jacoblin.cool/Luckyalim_?ext=heatmap&theme=dark" width='100%' height="180" alt="LeetCode card"/>
+  
 </p>
 
 ---
