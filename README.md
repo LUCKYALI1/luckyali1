@@ -24,7 +24,7 @@ Modern, professional layout — Full-Stack Software Engineer & Data Engineer
   <a href="https://linkedin.com/in/Luckyalim" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Luckyali1" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:luckyali786ashu@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://luckyali.netlify.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://luckyaliprofolio.netlify.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://leetcode.com/Luckyalim_" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
@@ -182,7 +182,7 @@ Modern, professional layout — Full-Stack Software Engineer & Data Engineer
 
 - 💼 LinkedIn: [@Luckyalim](https://linkedin.com/in/Luckyalim)
 - ✉️ Email: [luckyali786ashu@gmail.com](mailto:luckyali786ashu@gmail.com)
-- 🌐 Portfolio: [luckyali.netlify.app](https://luckyali.netlify.app/)
+- 🌐 Portfolio: [luckyaliprofolio.netlify.app](https://luckyaliprofolio.netlify.app)
 - 📞 Phone: +91 9193161541
 
 ---
